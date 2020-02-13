@@ -11,10 +11,9 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: Brad Smialek,  email: brad.smialek@codefellows.com, slack: @Brad Smialek
+Instructor: Brad Smialek,  email: brad.smialek@codefellows.com, slack: @BradSmialek
 
-
-**[Link to Canvas Assignments](https://canvas.instructure.com/courses/EDIT)**
+[Link to Canvas](https://canvas.instructure.com/courses/1819041)
 
 ### Course Schedule
 
